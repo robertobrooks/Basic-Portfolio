@@ -169,4 +169,9 @@ li a {
   width: 100px;
   height: 40px;
 }
-
+.portfolio{
+  float:left;
+  margin: 10px;
+  width:220px;
+  height:140px;
+}
